@@ -1,0 +1,278 @@
+
+<!DOCTYPE html>
+<html class="no-js">
+<head>
+<title>Free CSS | Free CSS Templates | Demo of the HTML CSS Template Build</title>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" type="text/css" href="assets/css/themify-icons.css">
+<link rel="stylesheet" type="text/css" href="assets/css/icomoon-icons.css">
+<link rel="stylesheet" type="text/css" href="assets/css/bootstrap.css">
+<link rel="stylesheet" type="text/css" href="assets/css/owl.carousel.min.css">
+<link rel="stylesheet" type="text/css" href="assets/css/owl.theme.default.min.css">
+<link rel="stylesheet" type="text/css" href="assets/css/magnific-popup.css">
+<link rel="stylesheet" type="text/css" href="assets/css/easy-responsive-tabs.css">
+<link rel="stylesheet" type="text/css" href="assets/css/style.css">
+<!--[if lte IE 9]>
+<script src="assets/js/modernizr-2.6.2.min.js"></script>
+<script src="assets/js/respond.min.js"></script>
+<![endif]-->
+<style type="text/css">
+#freecssfooter{display:block;width:100%;padding:120px 0 20px;overflow:hidden;background-color:transparent;z-index:5000;text-align:center;}
+#freecssfooter div#fcssholder div{display:none;}
+#freecssfooter div#fcssholder div:first-child{display:block;}
+#freecssfooter div#fcssholder div:first-child a{float:none;margin:0 auto;}
+</style></head>
+<body class="fh5co-outer">
+<script type="text/javascript">
+(function(){
+  var bsa = document.createElement('script');
+     bsa.type = 'text/javascript';
+     bsa.async = true;
+     bsa.src = '//s3.buysellads.com/ac/bsa.js';
+  (document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(bsa);
+})();
+</script>
+<header id="fh5co-header" role="banner">
+  <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+    <div class="container">
+      <div class="navbar-header"><a href="javascript:void(0)" class="js-fh5co-nav-toggle fh5co-nav-toggle" data-toggle="collapse" data-target="#fh5co-navbar" aria-expanded="false"><i></i></a> <a class="navbar-brand" href="http://www.free-css.com/free-css-templates">Build</a></div>
+      <div id="fh5co-navbar" class="navbar-collapse collapse">
+        <ul class="nav navbar-nav">
+          <li><a href="pages/inside-page.php">Inside Page</a></li>
+          <li><a href="pages/elements.php">Elements</a></li>
+        </ul>
+        <ul class="nav navbar-nav navbar-right">
+          <li><a href="http://www.free-css.com/free-css-templates" class="btn btn-calltoaction btn-primary">Get in touch</a></li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+</header>
+<div id="fh5co-hero" style="background-image:url(assets/images/hero_2.jpg)"> <a href="#fh5co-main" class="smoothscroll animated bounce fh5co-arrow"><i class="ti-angle-down"></i></a>
+  <div class="overlay"></div>
+  <div class="container">
+    <div class="col-md-8 col-md-offset-2">
+      <div class="text">
+        <h1><strong>BUILD</strong> a free HTML5 template <em>by</em> <strong>FreeHTML5</strong></h1>
+      </div>
+    </div>
+  </div>
+</div>
+<main role="main" id="fh5co-main">
+  <section class="feature">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-4">
+          <div class="feature-item">
+            <div class="feature-icon"><i class="icon ti-gift"></i></div>
+            <div class="feature-text">
+              <h3>Download for Free</h3>
+              <p>Lorem ipsum dolor sit amet, <a href="http://www.free-css.com/free-css-templates">consectetur</a> adipisicing elit. Quidem reiciendis consequuntur nisi enim similique officiis sint, in sequi iste repellat.</p>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div class="feature-item">
+            <div class="feature-icon"><i class="icon ti-heart"></i></div>
+            <div class="feature-text">
+              <h3>Crafted with Love</h3>
+              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quidem reiciendis consequuntur nisi enim similique officiis sint, in sequi iste repellat.</p>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div class="feature-item">
+            <div class="feature-icon"><i class="icon ti-mobile"></i></div>
+            <div class="feature-text">
+              <h3>Mobile First</h3>
+              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quidem reiciendis consequuntur nisi enim similique officiis sint, in sequi iste repellat.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section class="grid-gallery">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-6 col-md-offset-3">
+          <h2 class="section-heading">Galleries</h2>
+        </div>
+      </div>
+      <div class="row gallery-row">
+        <div class="col-md-6 col-sm-6"> <a href="assets/images/img_1.jpg" class="img image-popup">
+          <div class="overlay"></div>
+          <div class="text">
+            <h2>Project 1</h2>
+          </div>
+          <img src="assets/images/img_1.jpg" alt="website template image" class="img-responsive"></a></div>
+        <div class="col-md-6 col-sm-6">
+          <div class="row first-row">
+            <div class="col-md-6 col-sm-6"> <a href="assets/images/img_2.jpg" class="img image-popup">
+              <div class="overlay"></div>
+              <div class="text">
+                <h2>Project 2</h2>
+              </div>
+              <img src="assets/images/img_2.jpg" alt="website template image" class="img-responsive"></a></div>
+            <div class="col-md-6 col-sm-6"> <a href="assets/images/img_3.jpg" class="img image-popup">
+              <div class="overlay"></div>
+              <div class="text">
+                <h2>Project 3</h2>
+              </div>
+              <img src="assets/images/img_3.jpg" alt="website template image" class="img-responsive"></a></div>
+          </div>
+          <div class="row">
+            <div class="col-md-6 col-sm-6"> <a href="assets/images/img_4.jpg" class="img image-popup">
+              <div class="overlay"></div>
+              <div class="text">
+                <h2>Project 4</h2>
+              </div>
+              <img src="assets/images/img_4.jpg" alt="website template image" class="img-responsive"></a></div>
+            <div class="col-md-6 col-sm-6"> <a href="assets/images/img_5.jpg" class="img image-popup">
+              <div class="overlay"></div>
+              <div class="text">
+                <h2>Project 5</h2>
+              </div>
+              <img src="assets/images/img_5.jpg" alt="website template image" class="img-responsive"></a></div>
+          </div>
+        </div>
+      </div>
+      <div class="row gallery-row">
+        <div class="col-md-6 col-sm-6">
+          <div class="row first-row">
+            <div class="col-md-6 col-sm-6"> <a href="assets/images/img_6.jpg" class="img image-popup">
+              <div class="overlay"></div>
+              <div class="text">
+                <h2>Project 6</h2>
+              </div>
+              <img src="assets/images/img_6.jpg" alt="website template image" class="img-responsive"></a></div>
+            <div class="col-md-6 col-sm-6"> <a href="assets/images/img_7.jpg" class="img image-popup">
+              <div class="overlay"></div>
+              <div class="text">
+                <h2>Project 7</h2>
+              </div>
+              <img src="assets/images/img_7.jpg" alt="website template image" class="img-responsive"></a></div>
+          </div>
+          <div class="row">
+            <div class="col-md-6 col-sm-6"> <a href="assets/images/img_8.jpg" class="img image-popup">
+              <div class="overlay"></div>
+              <div class="text">
+                <h2>Project 8</h2>
+              </div>
+              <img src="assets/images/img_8.jpg" alt="website template image" class="img-responsive"></a></div>
+            <div class="col-md-6 col-sm-6"> <a href="assets/images/img_9.jpg" class="img image-popup">
+              <div class="overlay"></div>
+              <div class="text">
+                <h2>Project 9</h2>
+              </div>
+              <img src="assets/images/img_9.jpg" alt="website template image" class="img-responsive"></a></div>
+          </div>
+        </div>
+        <div class="col-md-6 col-sm-6"> <a href="assets/images/img_10.jpg" class="img image-popup">
+          <div class="overlay"></div>
+          <div class="text">
+            <h2>Project 10</h2>
+          </div>
+          <img src="assets/images/img_10.jpg" alt="website template image" class="img-responsive"></a></div>
+      </div>
+      <div class="row">
+        <div class="col-md-12 text-center">
+          <div><a href="http://www.free-css.com/free-css-templates" class="btn btn-primary">View Full Gallery</a></div>
+        </div>
+      </div>
+    </div>
+  </section>
+</main>
+<footer role="contentinfo" id="fh5co-footer">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-3 col-sm-6">
+        <div class="footer-box border-bottom">
+          <h3 class="footer-heading">About Us</h3>
+          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quidem reiciendis consequuntur nisi enim similique</p>
+        </div>
+        <h3 class="footer-heading">Subscribe</h3>
+        <form action="#" method="post" class="form-subscribe">
+          <div class="field">
+            <input type="email" class="form-control" placeholder="hello@gmail.com">
+            <button class="btn btn-primary">Subscribe</button>
+          </div>
+        </form>
+        <div class="fh5co-spacer fh5co-spacer-sm"></div>
+      </div>
+      <div class="col-md-3 col-sm-6">
+        <h3 class="footer-heading">Recent Blog</h3>
+        <ul class="footer-list">
+          <li><a href="http://www.free-css.com/free-css-templates">Nobis odio nulla autem aliquam vitae doloremque.</a></li>
+          <li><a href="http://www.free-css.com/free-css-templates">Consectetur adipisicing elit.</a></li>
+          <li><a href="http://www.free-css.com/free-css-templates">Lorem ipsum dolor sit amet.</a></li>
+        </ul>
+      </div>
+      <div class="visible-sm clearfix"></div>
+      <div class="col-md-3 col-sm-6">
+        <h3 class="footer-heading">Categories</h3>
+        <ul class="footer-list">
+          <li><a href="http://www.free-css.com/free-css-templates"><abbr title="Hypertext Markup Language 5">HTML5</abbr></a></li>
+          <li><a href="http://www.free-css.com/free-css-templates"><abbr title="Cascading Stylesheets 3">CSS 3</abbr></a></li>
+          <li><a href="http://www.free-css.com/free-css-templates">jQuery</a></li>
+          <li><a href="http://www.free-css.com/free-css-templates">Free HTML5</a></li>
+        </ul>
+      </div>
+      <div class="col-md-3 col-sm-6 clearfix">
+        <div class="row">
+          <div class="col-md-6 col-sm-6">
+            <div class="footer-box">
+              <h3 class="footer-heading">Get in Touch</h3>
+              <ul class="footer-list">
+                <li><a href="http://www.free-css.com/free-css-templates">Our Team</a></li>
+                <li><a href="http://www.free-css.com/free-css-templates">Contact Us</a></li>
+                <li><a href="http://www.free-css.com/free-css-templates">Privacy Policy</a></li>
+              </ul>
+            </div>
+          </div>
+          <div class="col-md-6 col-sm-6">
+            <div class="footer-box">
+              <h3 class="footer-heading">Support</h3>
+              <ul class="footer-list">
+                <li><a href="http://www.free-css.com/free-css-templates">FAQ's</a></li>
+                <li><a href="http://www.free-css.com/free-css-templates">Knowledgebase</a></li>
+                <li><a href="http://www.free-css.com/free-css-templates">Forum</a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="copyright">
+          <p class="text-center"><small>A Free HTML5 Template by <a target="_blank" rel="nofollow" href="http://freehtml5.co/">FreeHTML5.co</a> Images: Unsplash<br>
+            &copy; 2015 Display. All Rights Reserved.</small></p>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+<a href="http://www.free-css.com/free-css-templates" class="fh5co-gotop"><i class="ti-shift-left"></i></a> 
+<script src="assets/js/jquery-1.10.2.min.js"></script>
+<script src="assets/js/jquery.easing.1.3.js"></script>
+<script src="assets/js/bootstrap.js"></script>
+<script src="assets/js/owl.carousel.min.js"></script>
+<script src="assets/js/jquery.magnific-popup.min.js"></script>
+<script src="assets/js/easyResponsiveTabs.js"></script>
+<script src="assets/js/fastclick.js"></script>
+<script src="assets/js/main.js"></script>
+<div id="freecssfooter">
+  <div id="fcssholder">
+    <div id="bsap_2365" class="bsarocks bsap_b893e54e42ad5b76e7b252f59be18e67"></div>
+    <div id="bsap_1635" class="bsarocks bsap_b893e54e42ad5b76e7b252f59be18e67"></div>
+    <div id="bsap_1279659" class="bsarocks bsap_b893e54e42ad5b76e7b252f59be18e67"></div>
+  </div>
+</div>
+<script type="text/javascript">(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create', 'UA-159243-28', 'auto');ga('send', 'pageview');</script>
+</body>
+</html>
