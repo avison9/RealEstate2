@@ -20,7 +20,7 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency 'rspec', '~> 3.7', '>= 3.7.0'
 #============================================================== 
   spec.add_dependency "colorize", "~>0.8.1"
-  spec.add_runtime_dependency 'nokogiri', '~> 1.8.5
+  spec.add_runtime_dependency 'nokogiri', '~> 1.8', '>= 1.8.1'
 #==============================================================   
   # comment out before push
   spec.add_development_dependency "pry", "~>0.11.3"
