@@ -1,6 +1,6 @@
 lib = File.expand_path("../lib", __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
-require "ruby_doc/version"
+require "RealEstate2_doc/version"
 
 Gem::Specification.new do |spec|
   spec.name          = "RealEstate2_doc"
